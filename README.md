@@ -24,7 +24,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Тестирование API 
 
 Ссылка на проект : Confluence https://aivarkandma.atlassian.net/l/cp/SHF0nE1i
-
+             пароль 20Aliska2023
 
 Контактная информация 
 Email: IngvarMik@gmail.com 
