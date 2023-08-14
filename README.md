@@ -1,6 +1,7 @@
 #Портфолио: инженер по тестированию
 
-##Обо мне ![
+##Обо мне 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ###Привет! Меня зовут Игорь, я начинающий тестировщик 
 
