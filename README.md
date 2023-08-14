@@ -1,7 +1,7 @@
 #Портфолио: инженер по тестированию
 
 ##Обо мне 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/IngvarMik/AivarKandma/blob/main/IMG-20200218-WA0048.jpg
 
 ###Привет! Меня зовут Игорь, я начинающий тестировщик 
 
