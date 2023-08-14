@@ -9,7 +9,7 @@
 
 ### Навыки и технологии
 
-*** Jira ***,
+***Jira***,
 qase.io,
 SQL,
 Postman,
